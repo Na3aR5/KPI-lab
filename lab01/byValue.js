@@ -7,4 +7,5 @@ const increment = (x) => {
 let a = 10;
 let b = increment(a);
 
-console.dir(a, b); // a: 10, b: 11
+console.log(a);
+console.log(b);
